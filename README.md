@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello, I m Edgardo and this is a test. 🌱 I’m currently learning ...:smiley:
 <!--
 **Edgecr2023/Edgecr2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
